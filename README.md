@@ -1,5 +1,5 @@
-# reveal.js
+# Vorlage für Präsenationen mit reveal.js
 The HTML Presentation Framework
 
-## Meine Vorlage für Präsentationen mit reveal.js
-* verwendet Markdown in einem extra File.
+* Verwendet Markdown
+* Medien im Ordner /media
