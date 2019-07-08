@@ -28,10 +28,6 @@ Normal
     width="1000">
 </iframe>
 
----
-
-<img src="/media/profil.png" height="480"
-     />
 
 --
 
