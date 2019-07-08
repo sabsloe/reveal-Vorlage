@@ -35,10 +35,6 @@ Normal
 
 --
 
-![profil](media/profil.png "profil")
-
---
-
 ## Snips Installieren
 
 Quelltext
